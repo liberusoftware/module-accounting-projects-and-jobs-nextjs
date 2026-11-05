@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-projects-and-jobs-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-projects-and-jobs",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-projects-and-jobs-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/projects-and-jobs.md",
+  "presentationPlan": "projects/accounting/nextjs/projects-and-jobs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
